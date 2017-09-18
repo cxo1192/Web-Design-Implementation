@@ -67,8 +67,11 @@ The Gameplay is exactly the same as the traditional board games. In checkers eac
 
 ## ScreenShots
 ![picture of the app running tic-tac-toe](http://www.peopl.rit.edu/cxo1192/230/project1/media/tic.jpg "Tic-Tac-Toe ScreenShot")
+
 ![picture of the app running connect 4](http://www.peopl.rit.edu/cxo1192/230/project1/c4.html "Connect 4 ScreenShot")
+
 ![picture of the app running checkers](http://www.peopl.rit.edu/cxo1192/230/project1/proposal.html "Checkers ScreenShot")
+
 
 ## Miscillanious
 Depending on time constraints I may add more than just these three games.
