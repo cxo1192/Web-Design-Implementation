@@ -100,9 +100,12 @@ I have met the requirements of this project so far by filling out all of these p
  
 
 Resources:
-[Markdown Here Cheatsheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet#lists)
+[Markdown Here Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet#lists)
+
 [Game Treatment](http://igm.rit.edu/~acjvks/courses/2017-fall/590-ios-game/html/project-1-proposal.html)
+
 [Markdown](https://daringfireball.net/projects/markdown/index)
+
 [Web App Ideas](http://andrewhfarmer.com/tiny-app-ideas/)
 
 
