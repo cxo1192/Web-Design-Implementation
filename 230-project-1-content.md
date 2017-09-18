@@ -135,5 +135,6 @@ for tic-tac-toe clic where you would like to place your symbol and then give the
 
 
 ```footer```
+
 Cam Ostrom Copyright 2017
 
