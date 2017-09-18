@@ -74,7 +74,7 @@ The Gameplay is exactly the same as the traditional board games. In checkers eac
 
 
 ## Miscillanious
-Depending on time constraints I may add more than just these three games.
+Depending on time constraints I may add more than just these three games. Im considering adding chess or even hang-man as strech goals
 
 ## About the Developer
 Im Cameron Ostrom, a Game Design Major and a second year at RIT. Im a versitile programmer and graphic designer/photoshop user.
