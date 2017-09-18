@@ -24,6 +24,7 @@ index page
 GameBox is a web app that runs simple multiplayer turn based games. It simulates a game of tic-tac-toe, checkers, connect 4, and maybe more in the future. You play these games in a pass and play manor. Just click where you want to put your piece. Click over to the GameBox page to get started!
 
 ```footer```
+
 Cam Ostrom Copyright 2017
 
 
