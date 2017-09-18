@@ -99,7 +99,8 @@ documentation
 + [GameBox](http://www.peopl.rit.edu/cxo1192/230/project1/project.html)   
 
 ```project one documentation```
- First I looked up some reference ideas to come up with a web application that I would like to make and that would be within my scope of my capabilities. Second I planned out on paper the layout I wanted for this project. Third I learned how to use markdown. I reread the markdown references given to us. I then created this markdown file to organize the content of these four pages. 
+
+First I looked up some reference ideas to come up with a web application that I would like to make and that would be within my scope of my capabilities. Second I planned out on paper the layout I wanted for this project. Third I learned how to use markdown. I reread the markdown references given to us. I then created this markdown file to organize the content of these four pages. 
 
 I have met the requirements of this project so far by filling out all of these pages in this markdown file. It includes a landing page that contains a brief overview of the project, more than one image of the game, describes the app in a way that entices the user. The proposal plan goes into far more detail and functions as a game treatment, describing the concept, genre, platform, story/theming, and style. This document page contains the overall progress, and resources used in this project and will continue to be added upon as time goes on. And the project page wich contains filler content and will then be populated later. All of this was done while maintaining a consistent structure.   
  
