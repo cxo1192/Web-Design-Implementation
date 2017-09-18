@@ -86,7 +86,10 @@ Cam Ostrom Copyright 2017
 
 
 
-```documentation```
+```
+documentation
+```
+
 # GameBox Documentation
 ```navigation box```
 + [Main](http://www.peopl.rit.edu/cxo1192/230/project1)
@@ -125,7 +128,10 @@ Cam Ostrom Copyright 2017
 
 
 
-```project page```
+```
+project page
+```
+
 # GameBox
 
 ```navigation box```
