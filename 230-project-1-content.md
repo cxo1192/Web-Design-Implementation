@@ -80,6 +80,7 @@ Depending on time constraints I may add more than just these three games.
 Im Cameron Ostrom, a Game Design Major and a second year at RIT. Im a versitile programmer and graphic designer/photoshop user.
 
 ```footer```
+
 Cam Ostrom Copyright 2017
 
 
@@ -118,6 +119,7 @@ Resources:
 
 
 ```footer```
+
 Cam Ostrom Copyright 2017
 
 
@@ -137,6 +139,7 @@ Cam Ostrom Copyright 2017
 ```there will be three buttons here bellow the app to select wich game to run```
 
 ```instructions```
+
 To use GameBox select wich game you like to play and click the corrosponding button above.
 for tic-tac-toe clic where you would like to place your symbol and then give the mouse to the next player. For connect for click inside the column you would like to drop a piece in and then pass the mouse. For checkers click the piece you would like to move and then click a valid location for it to move.
 
