@@ -5,10 +5,10 @@ index page
 
 # Welcome to GameBox
 ```navigation box```
-+[Main](http://www.peopl.rit.edu/cxo1192/230/project1)
-+[Proposal](http://www.peopl.rit.edu/cxo1192/230/project1/proposal.html)   
-+Documentation(http://www.peopl.rit.edu/cxo1192/230/project1/documentation.html)   
-+GameBox(http://www.peopl.rit.edu/cxo1192/230/project1/project.html)   
++ [Main](http://www.peopl.rit.edu/cxo1192/230/project1)
++ [Proposal](http://www.peopl.rit.edu/cxo1192/230/project1/proposal.html)   
++ [Documentation](http://www.peopl.rit.edu/cxo1192/230/project1/documentation.html)   
++ [GameBox](http://www.peopl.rit.edu/cxo1192/230/project1/project.html)   
 
 
 ``` Game Images ```
@@ -37,10 +37,10 @@ Proposal
 # What is GameBox
 
 ```navigation box```
-+[Main](http://www.peopl.rit.edu/cxo1192/230/project1)
-+[Proposal](http://www.peopl.rit.edu/cxo1192/230/project1/proposal.html)   
-+Documentation(http://www.peopl.rit.edu/cxo1192/230/project1/documentation.html)   
-+GameBox(http://www.peopl.rit.edu/cxo1192/230/project1/project.html)   
++ [Main](http://www.peopl.rit.edu/cxo1192/230/project1)
++ [Proposal](http://www.peopl.rit.edu/cxo1192/230/project1/proposal.html)   
++ [Documentation](http://www.peopl.rit.edu/cxo1192/230/project1/documentation.html)   
++ [GameBox](http://www.peopl.rit.edu/cxo1192/230/project1/project.html)   
 
 ```High Concept```
 ## Answer
@@ -83,10 +83,10 @@ Cam Ostrom Copyright 2017
 ```documentation```
 # GameBox Documentation
 ```navigation box```
-+[Main](http://www.peopl.rit.edu/cxo1192/230/project1)
-+[Proposal](http://www.peopl.rit.edu/cxo1192/230/project1/proposal.html)   
-+Documentation(http://www.peopl.rit.edu/cxo1192/230/project1/documentation.html)   
-+GameBox(http://www.peopl.rit.edu/cxo1192/230/project1/project.html)   
++ [Main](http://www.peopl.rit.edu/cxo1192/230/project1)
++ [Proposal](http://www.peopl.rit.edu/cxo1192/230/project1/proposal.html)   
++ [Documentation](http://www.peopl.rit.edu/cxo1192/230/project1/documentation.html)   
++ [GameBox](http://www.peopl.rit.edu/cxo1192/230/project1/project.html)   
 
 ```project one documentation```
  First I looked up some reference ideas to come up with a web application that I would like to make and that would be within my scope of my capabilities. Second I planned out on paper the layout I wanted for this project. Third I learned how to use markdown. I reread the markdown references given to us. I then created this markdown file to organize the content of these four pages. 
@@ -119,10 +119,10 @@ Cam Ostrom Copyright 2017
 # GameBox
 
 ```navigation box```
-+[Main](http://www.peopl.rit.edu/cxo1192/230/project1)
-+[Proposal](http://www.peopl.rit.edu/cxo1192/230/project1/proposal.html)   
-+Documentation(http://www.peopl.rit.edu/cxo1192/230/project1/documentation.html)   
-+GameBox(http://www.peopl.rit.edu/cxo1192/230/project1/project.html)   
++ [Main](http://www.peopl.rit.edu/cxo1192/230/project1)
++ [Proposal](http://www.peopl.rit.edu/cxo1192/230/project1/proposal.html)   
++ [Documentation](http://www.peopl.rit.edu/cxo1192/230/project1/documentation.html)   
++ [GameBox](http://www.peopl.rit.edu/cxo1192/230/project1/project.html)   
 
 ```This is a place holder where the app will go```
 
