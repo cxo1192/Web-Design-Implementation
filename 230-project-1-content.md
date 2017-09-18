@@ -73,7 +73,7 @@ The Gameplay is exactly the same as the traditional board games. In checkers eac
 ![picture of the app running checkers](http://www.peopl.rit.edu/cxo1192/230/project1/proposal.html "Checkers ScreenShot")
 
 
-## Miscillanious
+## Miscellaneous
 Depending on time constraints I may add more than just these three games. Im considering adding chess or even hang-man as strech goals
 
 ## About the Developer
