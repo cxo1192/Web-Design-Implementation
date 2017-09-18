@@ -3,7 +3,7 @@
 index page
 ```
 
-#Welcome to GameBox#
+#Welcome to GameBox
 ```navigation box```
 +[Main](http://www.peopl.rit.edu/cxo1192/230/project1)
 +[Proposal](http://www.peopl.rit.edu/cxo1192/230/project1/proposal.html)   
@@ -19,7 +19,7 @@ index page
 ![picture of the app running checkers] (http://www.peopl.rit.edu/cxo1192/230/project1/proposal.html "Checkers ScreenShot")
 
 
-##GameBox in a nutshell##
+##GameBox in a nutshell
 GameBox is a web app that runs simple multiplayer turn based games. It simulates a game of tic-tac-toe, checkers, connect 4, and maybe more in the future. You play these games in a pass and play manor. Just click where you want to put your piece. Click over to the GameBox page to get started!
 
 ```footer```
@@ -34,7 +34,7 @@ Proposal
 ```
 
 
-#What is GameBox#
+#What is GameBox
 ```navigation box```
 ```navigation box```
 +[Main](http://www.peopl.rit.edu/cxo1192/230/project1)
@@ -43,35 +43,35 @@ Proposal
 +GameBox(http://www.peopl.rit.edu/cxo1192/230/project1/project.html)   
 
 ```High Concept```
-##Answer##
+##Answer
 Why break out a pen and paper or dig through your game boards when you can just load up a match with GameBox. Its checkers with the convience of no game board.
 
-##Genre##
+##Genre
 GameBox is an interactive compilation of of simple competative stratagy board games.
 
-##Platform##
+##Platform
 GameBox runs on all Desktops
 
-##Story##
+##Story
 The games in GameBox are purely abstract. The players try to overcome their opponents by out-stratigizing each other.    
 
-##Esthetic##
+##Esthetic
 The Graphic style of GameBox varies from game to game. Checkers has a more realistic, earthy, wooden look to it with glossy pieces. Connect4 has a brighter cartoonlike feel that looka like hard plastic. Tic-tac-toe has a more minimalist style comprised of simple lines to construct the grid and thicker rounded lines for the Xs and Os.
 
 All three games will run a simple calming looped ambience track running in the background. When a checkers or connect 4 piece is placed a small clink will play. And when an X or an O is placed a poping noise will play. Additionally in all three games upon the victory of a player a triumphant fanfare jingle will play along with a congratulations message.   
 
-##Gameplay##
+##Gameplay
 The Gameplay is exactly the same as the traditional board games. In checkers each player takes turns moving one pawn one space forward diagnally. If an opponents piece is in a forward-diagnal space where you could move, than you can jump your piece two diagnally over the opponents piece, removing it from the board. If the opponents pieces line up, you may jump multiple times per turn. If you successfully get a pawn to the opposite end of the board your pawn becomes a king (denoted with a different sprite) and can now move diagnally forwards and backwards. A player wins by jumping all of the opponents pieces. Tic-Tac-Toe is played by tacking turns placing each players respective symbol(either an x or an o) on one of the squares formed by the three by three grid. The players compete to form or block other players from forming a three in a row of there symbol. Connect 4 is played by dropping pieces down colomns one at a time. The pieces fall as far as they can orthogonaly before hitting another piece or the bottom. The goal is to allign or block your opponent from alligning 4 of their peices (either black or red) diagonally or orthogonaly. The game uses the mouse to click where you want your piece to be placed. In the case of checkers you click wich piece you want to move and then click where you want to place it. The player can learn the  controls from an instruction dialog below the app.  	   
 
-##ScreenShots##
+##ScreenShots
 ![picture of the app running tic-tac-toe](http://www.peopl.rit.edu/cxo1192/230/project1/media/tic.jpg "Tic-Tac-Toe ScreenShot")
 ![picture of the app running connect 4](http://www.peopl.rit.edu/cxo1192/230/project1/c4.html "Connect 4 ScreenShot")
 ![picture of the app running checkers] (http://www.peopl.rit.edu/cxo1192/230/project1/proposal.html "Checkers ScreenShot")
 
-##Miscillanious##
+##Miscillanious
 Depending on time constraints I may add more than just these three games.
 
-##About the Developer##
+##About the Developer
 Im Cameron Ostrom, a Game Design Major and a second year at RIT. Im a versitile programmer and graphic designer/photoshop user.
 
 ```footer```
@@ -81,7 +81,7 @@ Cam Ostrom Copyright 2017
 
 
 ```documentation```
-#GameBox Documentation#
+#GameBox Documentation
 ```navigation box```
 +[Main](http://www.peopl.rit.edu/cxo1192/230/project1)
 +[Proposal](http://www.peopl.rit.edu/cxo1192/230/project1/proposal.html)   
@@ -116,7 +116,7 @@ Cam Ostrom Copyright 2017
 
 
 ```project page```
-#GameBox#
+#GameBox
 
 ```navigation box```
 +[Main](http://www.peopl.rit.edu/cxo1192/230/project1)
